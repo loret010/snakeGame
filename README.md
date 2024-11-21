@@ -45,4 +45,6 @@ Il gioco è ancora in sviluppo ed è soggetto a bug.
 Inoltre mancano le grafiche.
 Stiamo anche cercando di creare il file .exe, così le persone non devono fare quel processo lungo ogni volta per aprire il gioco.
 
+Questo gioco è stato ispirato dal gioco *Snake** di *Google* ed è stato solamente usato per imparare a programmare con Python.
+
 **Buon divertimento!**
