@@ -5,7 +5,7 @@ VERSIONE: 0.01 - ALPHA RELEASE
 
 
 ### Tutorial come giocare:
-Per muovere lo snake puoi usare le freccie sulla tastiera (su, per andare su, destra, per andare a destra, e così via...)
+Per muovere lo snake puoi usare le freccie sulla tastiera (su, per andare su, destra, per andare a destra, e così via...).
 Puoi anche usare **P** per mettere in pausa il gioco
 oppure **Q** per uscire dal gioco.
 
