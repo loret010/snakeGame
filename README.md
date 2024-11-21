@@ -23,7 +23,7 @@ Poi trovare il percorso su cui ci sono i file del gioco.
 **Copiare il percorso della cartella del gioco, e non dei singoli files.**
 Poi fare:
 
-``` cd (percorso della cartella)```
+```cd (percorso della cartella)```
 
 Esempio:
 
