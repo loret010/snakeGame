@@ -39,7 +39,10 @@ E si apre il gioco!
 
 ## Nota bene
 
+Il gioco è disponibile solo per Windows e Linux.
+
 Il gioco è ancora in sviluppo ed è soggetto a bug. 
 Inoltre mancano le grafiche.
+Stiamo anche cercando di creare il file .exe, così le persone non devono fare quel processo lungo ogni volta per aprire il gioco.
 
 **Buon divertimento!**
