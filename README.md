@@ -1,7 +1,7 @@
 # Snake Game
 Un gioco simile a quello dello snake di Google.
 
-VERSIONE: 0.01 - ALPHA RELEASE
+**Versione più recente:** 0.01 - ALPHA RELEASE
 
 
 ### Tutorial come giocare:
