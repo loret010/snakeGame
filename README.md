@@ -3,7 +3,7 @@ Un gioco simile a quello dello snake di Google.
 
 **Versione più recente:** 0.01 - ALPHA RELEASE
 
-Dai un occhiata ai progressi che stiamo facendo: https://trello.com/invite/b/673f503f6f43f0949c6c8797/ATTIc49ba48bfab0414e893b2482b21652222EA3D9F8/progresso-progetti
+Dai un occhiata ai progressi che stiamo facendo:
 
 
 ### Tutorial come giocare:
