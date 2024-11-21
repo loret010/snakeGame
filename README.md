@@ -5,6 +5,8 @@ Un gioco simile a quello dello snake di Google.
 
 Dai un occhiata ai progressi che stiamo facendo:
 
+https://trello.com/b/SsL4MUlm
+
 
 ### Tutorial come giocare:
 Per muovere lo snake puoi usare le freccie sulla tastiera (su, per andare su, destra, per andare a destra, e così via...).
