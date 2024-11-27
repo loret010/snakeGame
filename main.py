@@ -98,7 +98,7 @@ def toggle_pause():
     paused = not paused  # Mette in pausa/toglie la pausa
     if paused:
         pen.goto(0, 0)
-        pen.write("Paused", align="center", font=("Courier", 24, "normal"))
+        pen.write("In pausa", align="center", font=("Courier", 24, "normal"))
     else:
         pen.clear()
         pen.goto(0, 260)
@@ -210,7 +210,7 @@ while True:
             score = 0
 
             # Ritardo del reset
-            delay = 1
+            delay = 0.1
 
             pen.clear()
             pen.write("Score: {}  High Score: {}".format(score, high_score), align="center", font=("Courier", 24, "normal"))
